@@ -60,10 +60,11 @@ It allows seamless interaction between Admins and Students through login systems
 
 ## ‧₊˚ ┊ How to Run the Program
 Open your terminal in the `src/` folder and compile using:
+```java CampusKonek/*. java```
 
 
 Run the system using:
-
+```CampusKonek.Main```
 
 ---
 
@@ -106,8 +107,165 @@ Run the system using:
 ---
 
 ## ‧₊˚ ┊ Example Output
+```
+==============================
+ UNIVERSITY MANAGEMENT SYSTEM
+==============================
+
+1. Login as Student
+2. Login as Admin
+3. Exit
+Choose option: 2
+
+--- ADMIN LOGIN ---
+Enter admin password: admin123
+Admin login successful!
+
+===== ADMIN MENU =====
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Add Organization
+6. View Organizations
+7. Approve Organization
+8. Delete Organization
+9. Logout
+Choose option: 1
+
+--- ADD STUDENT ---
+Name: Juan Dela Cruz
+Email: juan@gmail.com
+Course: BSIT
+Hobbies: Programming, Gaming
+Create password: juanpass
+
+Student added successfully!
 
 
+===== ADMIN MENU =====
+Choose option: 5
+
+--- ADD ORGANIZATION ---
+Organization Name: Tech Innovators Club
+Description: For students interested in coding and robotics.
+Assigned Course: BSIT
+
+Organization submitted and pending approval.
+
+
+===== ADMIN MENU =====
+Choose option: 2
+
+--- STUDENT LIST ---
+ID: S1
+Name: Juan Dela Cruz
+Email: juan@gmail.com
+Course: BSIT
+Hobbies: Programming, Gaming
+Pending Application: No
+-----------------------
+
+
+===== ADMIN MENU =====
+Choose option: 6
+
+--- ORGANIZATION LIST ---
+ORG1 - Tech Innovators Club
+Course: BSIT
+Status: Pending
+----------------------------------
+
+
+===== ADMIN MENU =====
+Choose option: 7
+
+--- APPROVE ORGANIZATION ---
+Enter Organization ID: ORG1
+Organization approved successfully!
+
+
+===== ADMIN MENU =====
+Choose option: 9
+Logging out...
+
+==============================
+ UNIVERSITY MANAGEMENT SYSTEM
+==============================
+
+1. Login as Student
+2. Login as Admin
+3. Exit
+Choose option: 1
+
+--- STUDENT LOGIN ---
+Enter your name: Juan Dela Cruz
+Enter password: juanpass
+
+Login successful!
+
+
+===== STUDENT MENU =====
+1. View Profile
+2. View Available Organizations
+3. Apply for Organization
+4. Update Profile
+5. Logout
+Choose option: 1
+
+--- YOUR PROFILE ---
+Name: Juan Dela Cruz
+Email: juan@gmail.com
+Course: BSIT
+Hobbies: Programming, Gaming
+Pending Application: No
+
+
+===== STUDENT MENU =====
+Choose option: 2
+
+--- AVAILABLE ORGANIZATIONS ---
+ORG1 - Tech Innovators Club
+Course: BSIT
+Status: Approved
+----------------------------------
+
+
+===== STUDENT MENU =====
+Choose option: 3
+
+--- APPLY FOR ORGANIZATION ---
+Enter Organization ID: ORG1
+Application submitted!
+You now have a pending application.
+
+
+===== STUDENT MENU =====
+Choose option: 1
+
+--- YOUR PROFILE ---
+Name: Juan Dela Cruz
+Email: juan@gmail.com
+Course: BSIT
+Hobbies: Programming, Gaming
+Pending Application: YES
+
+
+===== STUDENT MENU =====
+Choose option: 5
+Logging out...
+
+==============================
+ UNIVERSITY MANAGEMENT SYSTEM
+==============================
+
+1. Login as Student
+2. Login as Admin
+3. Exit
+Choose option: 3
+
+Exiting program... Goodbye!
+```
 ---
 
 ## ‧₊˚ ┊ Acknowledgment  
