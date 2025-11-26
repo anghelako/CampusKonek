@@ -101,7 +101,7 @@ Run the system using:
 ---
 
 ## ‧₊˚ ┊ Acknowledgment  
-Special thanks to everyone who helped make this project possible — instructors, classmates, and anyone who provided feedback, ideas, or guidance throughout its development.
+Special thanks to everyone who helped make this project possible — instructor Ma'am Fatima Marie Agdon, classmates, and anyone who provided feedback, ideas, or guidance throughout its development.
 
 ---
 
