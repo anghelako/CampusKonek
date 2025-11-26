@@ -51,3 +51,61 @@ It allows seamless interaction between Admins and Students through login systems
 ## ‧₊˚ ┊ How to Run the Program
 Open your terminal in the `src/` folder and compile using:
 
+
+Run the system using:
+
+
+---
+
+## ‧₊˚ ┊ Features  
+### 🔐 Authentication
+- Fixed **Admin login**
+- Personalized **Student login** with unique passwords  
+
+### 👥 Student Management (Admin)
+- Add new student  
+- View all students  
+- Update student name  
+- Delete student  
+- Exception handling included when adding students  
+
+### 🏫 Organization Management (Admin)
+- Add organization  
+- View organizations  
+- Approve pending organizations  
+- Delete organization  
+- Dynamic storage using ArrayLists  
+
+### 🎓 Student Operations
+- View personal profile  
+- Browse approved organizations  
+- Apply for an organization  
+- Update profile  
+
+### 💡 OOP Concepts Applied
+- **Abstraction:** `User` as abstract class with `displayInfo()`  
+- **Inheritance:** `Student`, `Admin`, `Organization` inheriting from `User`  
+- **Encapsulation:** Private fields in `Student` with getters and setters  
+- **Polymorphism:** `displayInfo()` overridden across subclasses  
+
+### 🧰 Additional Features  
+- Persistent looping menus for Admin & Student  
+- Clean and informative console messages  
+- Organized handling of organization approval flow  
+
+---
+
+## ‧₊˚ ┊ Example Output
+
+
+---
+
+## ‧₊˚ ┊ Acknowledgment  
+Special thanks to everyone who helped make this project possible — instructors, classmates, and anyone who provided feedback, ideas, or guidance throughout its development.
+
+---
+
+<small>
+<b>DISCLAIMER</b><br/>
+This project and its contents are provided for academic learning and demonstration purposes only. Students are encouraged to use it as a reference and avoid copying it entirely.
+</small>
