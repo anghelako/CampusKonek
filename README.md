@@ -38,14 +38,16 @@ It allows seamless interaction between Admins and Students through login systems
 ## ‧₊˚ ┊ Project Structure
 ```
 📂 src/
-├── Main.java
-├── Student.java
-├── Admin.java
-├── Application.java
-├── Database.java
-├── InputHelper.java
-├── Organization.java
-└── User.java
+└── 📂 CampusKonek/
+    ├── Main.java
+    ├── Student.java
+    ├── Admin.java
+    ├── Application.java
+    ├── Database.java
+    ├── InputHelper.java
+    ├── Organization.java
+    └── User.java
+
 ```
 - `Main.java` – Entry point; handles main, admin, and student menus  
 - `Student.java` – Student data, encapsulated fields, behaviors  
