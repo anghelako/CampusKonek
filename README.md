@@ -61,7 +61,7 @@ It allows seamless interaction between Admins and Students through login systems
 ## ‧₊˚ ┊ How to Run the Program
 Open your terminal in the `src/` folder and compile using:
 ```
-java CampusKonek/*. java
+java CampusKonek/*.java
 ```
 
 
