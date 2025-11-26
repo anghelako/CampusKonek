@@ -1,10 +1,12 @@
 <h1 align = "center">𐔌 .⋮ CampusKonek .ᐟ ֹ ₊ ꒱</h1>
-<h3 align = "center">Find the org for you (to edit) ✧˖°</h3>
+<h3 align = "center">Find the org for you ✧˖°</h3>
 
 <p align = "center">
 <b>CS 211</b> <br/>
 <b>Project Members:</b><br/>
-To be filled (Name – Role) <br/>
+Raymond Acuzar <br/>
+Lordy Miles J. Ricohermoso <br/>
+Myk Angelo D. Tosino <br/>
 </p>
 
 ---
