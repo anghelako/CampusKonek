@@ -36,7 +36,6 @@ It allows seamless interaction between Admins and Students through login systems
 ---
 
 ## ‧₊˚ ┊ Project Structure
-
 ```
 📂 src/
 ├── Main.java
@@ -48,16 +47,14 @@ It allows seamless interaction between Admins and Students through login systems
 ├── Organization.java
 └── User.java
 ```
----
-
-- **Main.java** – Entry point; handles main, admin, and student menus  
-- **Student.java** – Student data, encapsulated fields, behaviors  
-- **Admin.java** – Admin-specific operations and access  
-- **Application.java** – Handles student applications to organizations  
-- **Database.java** – Stores ArrayLists for students and organizations  
-- **InputHelper.java** – Validated input handling  
-- **Organization.java** – Org data, approval status, assigned course  
-- **User.java** – Parent class for Admin and Student (abstraction)
+- 'Main.java' – Entry point; handles main, admin, and student menus  
+- 'Student.java' – Student data, encapsulated fields, behaviors  
+- 'Admin.java' – Admin-specific operations and access  
+- 'Application.java' – Handles student applications to organizations  
+- 'Database.java' – Stores ArrayLists for students and organizations  
+- 'InputHelper.java' – Validated input handling  
+- 'Organization.java' – Org data, approval status, assigned course  
+- 'User.java' – Parent class for Admin and Student (abstraction)
 
 ---
 
