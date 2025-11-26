@@ -48,6 +48,8 @@ It allows seamless interaction between Admins and Students through login systems
 ├── Organization.java
 └── User.java
 ```
+---
+
 - **Main.java** – Entry point; handles main, admin, and student menus  
 - **Student.java** – Student data, encapsulated fields, behaviors  
 - **Admin.java** – Admin-specific operations and access  
